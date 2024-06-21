@@ -27,7 +27,7 @@ const exp = [
   },
    {
     title: "Evento GastroCirco",
-    cardImage: "images/gstrocirco.jpg",
+    cardImage: "images/gastrocirco.jpg",
     place: "Realizado pela turma, na matéria de Eventos Gastronômicos",
     time: "(07 - jun, 2024)",
     desp: "<li>Durante a preparação e o desenvolvimento tive a participação na área do marketing</li><li>Fui a auxiliar geral na comunicação, divulgação e organização</li><li>No dia do evento estive mais presente auxiliando no caixa</li>",
