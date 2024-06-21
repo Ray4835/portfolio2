@@ -5,33 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "MesaBar",
+    title: "Rayssa Machado de Jesus Santos",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Visita técnica",
-    time: "(5 - set, 2023 )",
-    desp: "<li>Estava sob comando dos Chefs Luigi Rea e Danielle Massa, ajudando na preparação dos itens que seriam usados na preparações que seriam servidas aos convidados </li> <li>Auxiliei na organização da cozinha onde estava localiza a equipe da Etec Professor Camargo Aranha </li> <li> Estava á disposição ajudando em múltiplas tarefas</li>",
+    place: "",
+    time: "(26 - out, 2005 )",
+    desp: "Tenho 19 anos e sou a primogênita de 9 filhos. Procuro sempre focar nos estudos par conseguir ser um exemplo para meus irmãos, visto que meus pais não chegaram a concluir os estudo. Por ser a irmã mais velha sinto que yenho que carregar este 'cargo' de filho exemplo, não sei ao certo em qual área pretendendo seguir,as busquei saber mais sobre gastronomia por ser um refúgio omde posso expressar sentimentos através de preparações. Amo cozinhar, pois minha família ama comer e gosto de esbajar o amor que sinto através da comida",
   },
-  {
-    title: "Mesa São Paulo",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Visita técnica",
-    time: "(25 - out, 2023)",
-    desp: "<li>Auxiliei o chef Guto Medeiros em uma aula que ocorreu durante o evento com a preparação de uma salada com mix de feijões</li><li>Estaja a disposição dos professores para receber suas instruções</li>",
-  },
-  {
-    title: "Evento de Boas Vindas",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "Recepção da nova turma de gastronomia",
-    time: "(08 - mar, 2024)",
-    desp: "<li>Auxilio na cozinha, na escolha do cardápio e na execução das preparações que foram servidas no evento</li>",
-  },
-   {
-    title: "Evento GastroCirco",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "Realizado pela turma, na matéria de Eventos Gastronômicos",
-    time: "(07 - jun, 2024)",
-    desp: "<li>Durante a preparação e o desenvolvimento tive a participação na área do marketing</li><li>Fui a auxiliar geral na comunicação, divulgação e organização</li><li>No dia do evento estive mais presente auxiliando no caixa</li>",
-  },
+ 
     ];
 
 const showCards2 = () => {
