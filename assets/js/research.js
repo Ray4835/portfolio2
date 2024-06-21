@@ -7,7 +7,7 @@ const research = [
     title: "Licor de leite",
     authors: "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
     conferences: "Preparação realizada na aula de Nutrição e Higiene dos Alimento orientada pela professora Carla Keiko",
-    researchYr: 07_10_2023,
+    researchYr: 2023,
     citebox: "popup1",
     image: "images/Licor.jpeg",
     citation: {
