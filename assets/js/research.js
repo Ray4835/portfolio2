@@ -45,7 +45,7 @@ const research = [
     authors: "Rayssa Machado, Mariana Fragoso, Marcos Paulo e Thais ",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 10 nov, 2023,
+    researchYr: 2023,
     citebox: "popup3",
     image: "assets/images/research-page/wordRepresentation.png",
     citation: {
@@ -64,7 +64,7 @@ const research = [
       "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 16 nov, 2023,
+    researchYr: 2023,
     citebox: "popup4",
     image: "assets/images/research-page/dialogueState.png",
     citation: {
