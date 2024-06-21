@@ -38,17 +38,14 @@ const research = [
   {
     title: "Muffin de canela com cobertura de chocolate",
     authors: "Rayssa Machado, Mariana Fragoso, Marcos Paulo e Thais ",
-    conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+    conferences: "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2023,
     citebox: "popup3",
     image: "assets/images/research-page/wordRepresentation.png",
     citation: {
-      vancouver:
-        "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+      vancouver: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
     },
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 3",
+    abstract: "This is currently left empty and this can be considered as a dummy data 3",
     absbox: "absPopup3",
   },
 
