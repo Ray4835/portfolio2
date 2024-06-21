@@ -56,7 +56,7 @@ const research = [
       "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2023,
     citebox: "popup4",
-    image: "assets/images/research-page/dialogueState.png",
+    image: "images/images/IMG-20231117-WA0055(2).jpg",
     citation: {
       vancouver:
         "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
