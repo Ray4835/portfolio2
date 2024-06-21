@@ -41,7 +41,7 @@ const research = [
     conferences: "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2023,
     citebox: "popup3",
-    image: "assets/images/research-page/wordRepresentation.png",
+    image: "images/images/IMG-20231110-WA0048(2).jpg",
     citation: {
       vancouver: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
     },
