@@ -7,10 +7,10 @@ const research = [
     title: "Licor de leite",
     authors: "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
     conferences: "Preparação realizada na aula de Nutrição e Higiene dos Alimento orientada pela professora Carla Keiko",
-    researchYr: 07 - 10 - 2023,
+    researchYr: 07,10, 2023,
     citebox: "popup1",
     image: "images/Licor.jpeg",
-    citation: {
+    ingredientes: {
       vancouver:
         "Leite 2 It/nAçúcar 400 g/nSal 1 colher (café) de sal 'dissolvido em água'/nBicarbonato de sódio 1 colher (café) de sal 'dissolvido em água'Canela em pau Qb/nCravo Qb/nNoz moscada Qb/nErva doce Qb/nGengibre fresco Qb/nCachaça 400 ml (pode fazer mais forte ou mais fraco na cachaça) ",   
     },
