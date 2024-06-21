@@ -6,9 +6,9 @@ const research = [
   {
     title: "Licor de leite",
     authors:
-      "Rayssa Machado, Marcos Paulo, Thais",
+      "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "Preparação realizada na aula de Nutrição e Higiene dos Alimento orientada pela professora Carla Keiko",
     researchYr: 2020,
     citebox: "popup1",
     image: "images/Licor.jpeg",
@@ -22,11 +22,11 @@ const research = [
   },
 
   {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    title: "Caldeirada",
     authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
+      "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki ",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "Preparação realizada na aula de Produções Gastronômicas orientada pelos professores Luigi Rea e Danielle Massa ",
     researchYr: 2020,
     citebox: "popup2",
     image: "assets/images/research-page/crossLingual.png",
@@ -41,11 +41,11 @@ const research = [
 
   {
     title:
-      "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
-    authors: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis",
+      "Muffin de canela com cobertura de chocolate",
+    authors: "Rayssa Machado, Mariana Fragoso, Marcos Paulo e Thais ",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+    researchYr: 10 nov, 2023,
     citebox: "popup3",
     image: "assets/images/research-page/wordRepresentation.png",
     citation: {
@@ -59,12 +59,12 @@ const research = [
 
   {
     title:
-      "A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking",
+      "Massa Génoise com cobertura e recheio de coco com abacaxi",
     authors:
-      "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou",
+      "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+    researchYr: 16 nov, 2023,
     citebox: "popup4",
     image: "assets/images/research-page/dialogueState.png",
     citation: {
