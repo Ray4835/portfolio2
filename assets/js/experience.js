@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Visita técnica",
     time: "(5 - set, 2023 )",
-    desp: "<li>Estava sob comando dos Chef Luigi Rea e Danielle Massa, ajudando na preparação dos itens que seriam usados na preparações que seriam servidas aos convidados </li> <li>Auxiliei o chef Guto Medeiros em uma aula que ocorreu durante o evento com a preparação de </li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Estava sob comando dos Chefs Luigi Rea e Danielle Massa, ajudando na preparação dos itens que seriam usados na preparações que seriam servidas aos convidados </li> <li>Auxiliei na organização da cozinha onde estava localiza a equipe da Etec Professor Camargo Aranha </li> <li> Estava á disposição ajudando em múltiplas tarefas</li>",
   },
   {
-    title: "Mesa",
+    title: "Mesa São Paulo",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Visita técnica",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    time: "(25 - out, 2023)",
+    desp: "<li>Auxiliei o chef Guto Medeiros em uma aula que ocorreu durante o evento com a preparação de uma salada com mix de feijões</li><li>Estaja a disposição dos professores para receber suas instruções</li><li></li>",
   },
   {
     title: "Research Intern",
