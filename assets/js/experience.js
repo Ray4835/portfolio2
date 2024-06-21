@@ -6,14 +6,14 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "MesaBar",
-    cardImage: "images/mesabar.jpg",
+    cardImage: "images/mesabar.png",
     place: "Visita técnica",
     time: "(5 - set, 2023 )",
     desp: "<li>Estava sob comando dos Chefs Luigi Rea e Danielle Massa, ajudando na preparação dos itens que seriam usados na preparações que seriam servidas aos convidados </li> <li>Auxiliei na organização da cozinha onde estava localiza a equipe da Etec Professor Camargo Aranha </li> <li> Estava á disposição ajudando em múltiplas tarefas</li>",
   },
   {
     title: "Mesa São Paulo",
-    cardImage: "images/mesasp.png",
+    cardImage: "images/Mesasp.jpg",
     place: "Visita técnica",
     time: "(25 - out, 2023)",
     desp: "<li>Auxiliei o chef Guto Medeiros em uma aula que ocorreu durante o evento com a preparação de uma salada com mix de feijões</li><li>Estaja a disposição dos professores para receber suas instruções</li>",
