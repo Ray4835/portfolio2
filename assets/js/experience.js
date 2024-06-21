@@ -19,13 +19,19 @@ const exp = [
     desp: "<li>Auxiliei o chef Guto Medeiros em uma aula que ocorreu durante o evento com a preparação de uma salada com mix de feijões</li><li>Estaja a disposição dos professores para receber suas instruções</li><li></li>",
   },
   {
-    title: "Research Intern",
+    title: "Evento de Boas Vindas",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    place: "Recepção da nova turma de gastronomia",
+    time: "(08 - mar, 2024)",
+    desp: "<li>Auxilio na cozinha, na escolha do cardápio e na execução das preparações que foram servidas no evento</li>
+   {
+    title: "Evento GastroCirco",
+    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    place: "Realizado pela turma, na matéria de Eventos Gastronômicos",
+    time: "(07 - jun, 2024)",
+    desp: "<li>Durante a preparação e o desenvolvimento tive a participação na área do marketing</li><li>Fui a auxiliar geral na comunicação, divulgação e organização</li><li>No dia do evento estive mais presente auxiliando no caixa</li>",
   },
-];
+    ];
 
 const showCards2 = () => {
   let output = "";
