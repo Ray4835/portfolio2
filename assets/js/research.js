@@ -10,11 +10,12 @@ const research = [
     researchYr: 2023,
     citebox: "popup1",
     image: "images/Licor.jpeg",
-    ingredientes: {
+    citation: {
       vancouver:
         "<li>Leite 2 IL</li> <li>Açúcar 400 g</li>/nSal 1 colher (café) de sal 'dissolvido em água'/nBicarbonato de sódio 1 colher (café) de sal 'dissolvido em água'Canela em pau Qb/nCravo Qb/nNoz moscada Qb/nErva doce Qb/nGengibre fresco Qb/nCachaça 400 ml (pode fazer mais forte ou mais fraco na cachaça) ",   
     },
-      preparo:
+      
+    abstract:
       "This is currently left empty and this can be considered as a dummy data 1",
     absbox: "absPopup1",
   },
