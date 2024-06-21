@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Visita técnica",
     time: "(25 - out, 2023)",
-    desp: "<li>Auxiliei o chef Guto Medeiros em uma aula que ocorreu durante o evento com a preparação de uma salada com mix de feijões</li><li>Estaja a disposição dos professores para receber suas instruções</li><li></li>",
+    desp: "<li>Auxiliei o chef Guto Medeiros em uma aula que ocorreu durante o evento com a preparação de uma salada com mix de feijões</li><li>Estaja a disposição dos professores para receber suas instruções</li>",
   },
   {
     title: "Evento de Boas Vindas",
