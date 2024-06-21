@@ -25,7 +25,7 @@ const research = [
     conferences: "Preparação realizada na aula de Produções Gastronômicas orientada pelos professores Luigi Rea e Danielle Massa ",
     researchYr: 2020,
     citebox: "popup2",
-    image: "images/IMG-20240320-WA0073(3).jpg",
+    image: "images/caldeirada.jpg",
     citation: {
       vancouver:
         "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
@@ -41,7 +41,7 @@ const research = [
     conferences: "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2023,
     citebox: "popup3",
-    image: "images/IMG-20231110-WA0048(2).jpg",
+    image: "images/muffin.jpg",
     citation: {
       vancouver: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
     },
@@ -56,7 +56,7 @@ const research = [
       "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2023,
     citebox: "popup4",
-    image: "images/IMG-20231117-WA0055(2).jpg",
+    image: "images/bolo.jpg",
     citation: {
       vancouver:
         "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
