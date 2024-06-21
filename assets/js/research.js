@@ -12,9 +12,9 @@ const research = [
     image: "images/Licor.jpeg",
     ingredientes: {
       vancouver:
-        "Leite 2 It/nAçúcar 400 g/nSal 1 colher (café) de sal 'dissolvido em água'/nBicarbonato de sódio 1 colher (café) de sal 'dissolvido em água'Canela em pau Qb/nCravo Qb/nNoz moscada Qb/nErva doce Qb/nGengibre fresco Qb/nCachaça 400 ml (pode fazer mais forte ou mais fraco na cachaça) ",   
+        "<li>Leite 2 IL</li> <li>Açúcar 400 g</li>/nSal 1 colher (café) de sal 'dissolvido em água'/nBicarbonato de sódio 1 colher (café) de sal 'dissolvido em água'Canela em pau Qb/nCravo Qb/nNoz moscada Qb/nErva doce Qb/nGengibre fresco Qb/nCachaça 400 ml (pode fazer mais forte ou mais fraco na cachaça) ",   
     },
-      abstract:
+      preparo:
       "This is currently left empty and this can be considered as a dummy data 1",
     absbox: "absPopup1",
   },
