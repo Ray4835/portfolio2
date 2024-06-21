@@ -6,28 +6,28 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "MesaBar",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "images/mesabar.jpg",
     place: "Visita técnica",
     time: "(5 - set, 2023 )",
     desp: "<li>Estava sob comando dos Chefs Luigi Rea e Danielle Massa, ajudando na preparação dos itens que seriam usados na preparações que seriam servidas aos convidados </li> <li>Auxiliei na organização da cozinha onde estava localiza a equipe da Etec Professor Camargo Aranha </li> <li> Estava á disposição ajudando em múltiplas tarefas</li>",
   },
   {
     title: "Mesa São Paulo",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "images/mesasp.png",
     place: "Visita técnica",
     time: "(25 - out, 2023)",
     desp: "<li>Auxiliei o chef Guto Medeiros em uma aula que ocorreu durante o evento com a preparação de uma salada com mix de feijões</li><li>Estaja a disposição dos professores para receber suas instruções</li>",
   },
   {
     title: "Evento de Boas Vindas",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "images/boasvindas.jpg",
     place: "Recepção da nova turma de gastronomia",
     time: "(08 - mar, 2024)",
     desp: "<li>Auxilio na cozinha, na escolha do cardápio e na execução das preparações que foram servidas no evento</li>",
   },
    {
     title: "Evento GastroCirco",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "images/gstrocirco.jpg",
     place: "Realizado pela turma, na matéria de Eventos Gastronômicos",
     time: "(07 - jun, 2024)",
     desp: "<li>Durante a preparação e o desenvolvimento tive a participação na área do marketing</li><li>Fui a auxiliar geral na comunicação, divulgação e organização</li><li>No dia do evento estive mais presente auxiliando no caixa</li>",
