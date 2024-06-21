@@ -25,7 +25,7 @@ const research = [
     conferences: "Preparação realizada na aula de Produções Gastronômicas orientada pelos professores Luigi Rea e Danielle Massa ",
     researchYr: 2020,
     citebox: "popup2",
-    image: "assets/images/research-page/crossLingual.png",
+    image: "images/images/IMG-20240320-WA0073(3).jpg",
     citation: {
       vancouver:
         "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
