@@ -13,6 +13,7 @@ const research = [
     ingredientes: {
       vancouver:
         "Leite 2 It/nAçúcar 400 g/n/nSal 1 colher (café) de sal 'dissolvido em água'/nBicarbonato de sódio 1 colher (café) de sal 'dissolvido em água'Canela em pau Qb/nCravo Qb/nNoz moscada Qb/nErva doce Qb/nGengibre fresco Qb/nCachaça 400 ml (pode fazer mais forte ou mais fraco na cachaça) ",   
+    },
       modo_de_prerado:
       "This is currently left empty and this can be considered as a dummy data 1",
     absbox: "absPopup1",
