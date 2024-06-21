@@ -7,14 +7,13 @@ const research = [
     title: "Licor de leite",
     authors: "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
     conferences: "Preparação realizada na aula de Nutrição e Higiene dos Alimento orientada pela professora Carla Keiko",
-    researchYr: 2020,
+    researchYr: 07 - dez,2023,
     citebox: "popup1",
     image: "images/Licor.jpeg",
-    citation: {
+    ingredientes: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
-    },
-    abstract:
+        "Leite 2 It/nAçúcar 400 g/n/nSal 1 colher (café) de sal 'dissolvido em água'/nBicarbonato de sódio 1 colher (café) de sal 'dissolvido em água'Canela em pau Qb/nCravo Qb/nNoz moscada Qb/nErva doce Qb/nGengibre fresco Qb/nCachaça 400 ml (pode fazer mais forte ou mais fraco na cachaça) ",   
+      modo_de_prerado:
       "This is currently left empty and this can be considered as a dummy data 1",
     absbox: "absPopup1",
   },
