@@ -5,10 +5,8 @@ const researchTable = document.querySelector(".main");
 const research = [
   {
     title: "Licor de leite",
-    authors:
-      "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
-    conferences:
-      "Preparação realizada na aula de Nutrição e Higiene dos Alimento orientada pela professora Carla Keiko",
+    authors: "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
+    conferences: "Preparação realizada na aula de Nutrição e Higiene dos Alimento orientada pela professora Carla Keiko",
     researchYr: 2020,
     citebox: "popup1",
     image: "images/Licor.jpeg",
@@ -23,10 +21,8 @@ const research = [
 
   {
     title: "Caldeirada",
-    authors:
-      "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki ",
-    conferences:
-      "Preparação realizada na aula de Produções Gastronômicas orientada pelos professores Luigi Rea e Danielle Massa ",
+    authors: "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki ",
+    conferences: "Preparação realizada na aula de Produções Gastronômicas orientada pelos professores Luigi Rea e Danielle Massa ",
     researchYr: 2020,
     citebox: "popup2",
     image: "assets/images/research-page/crossLingual.png",
@@ -40,8 +36,7 @@ const research = [
   },
 
   {
-    title:
-      "Muffin de canela com cobertura de chocolate",
+    title: "Muffin de canela com cobertura de chocolate",
     authors: "Rayssa Machado, Mariana Fragoso, Marcos Paulo e Thais ",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
@@ -58,10 +53,8 @@ const research = [
   },
 
   {
-    title:
-      "Massa Génoise com cobertura e recheio de coco com abacaxi",
-    authors:
-      "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
+    title: "Massa Génoise com cobertura e recheio de coco com abacaxi",
+    authors: "Rayssa Machado, Marcos Paulo, Mariana Fragoso e Thais",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2023,
