@@ -23,7 +23,7 @@ const exp = [
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "Recepção da nova turma de gastronomia",
     time: "(08 - mar, 2024)",
-    desp: "<li>Auxilio na cozinha, na escolha do cardápio e na execução das preparações que foram servidas no evento</li>
+    desp: "<li>Auxilio na cozinha, na escolha do cardápio e na execução das preparações que foram servidas no evento</li>",
   },
    {
     title: "Evento GastroCirco",
@@ -31,7 +31,7 @@ const exp = [
     place: "Realizado pela turma, na matéria de Eventos Gastronômicos",
     time: "(07 - jun, 2024)",
     desp: "<li>Durante a preparação e o desenvolvimento tive a participação na área do marketing</li><li>Fui a auxiliar geral na comunicação, divulgação e organização</li><li>No dia do evento estive mais presente auxiliando no caixa</li>",
-  },
+  }
     ];
 
 const showCards2 = () => {
