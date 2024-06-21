@@ -24,6 +24,7 @@ const exp = [
     place: "Recepção da nova turma de gastronomia",
     time: "(08 - mar, 2024)",
     desp: "<li>Auxilio na cozinha, na escolha do cardápio e na execução das preparações que foram servidas no evento</li>
+  },
    {
     title: "Evento GastroCirco",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
