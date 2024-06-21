@@ -11,12 +11,12 @@ const research = [
     citebox: "popup1",
     image: "images/Licor.jpeg",
     citation: {
-      vancouver:
-        "<li>Leite 2 IL</li> <li>Açúcar 400 g</li>/nSal 1 colher (café) de sal 'dissolvido em água'/nBicarbonato de sódio 1 colher (café) de sal 'dissolvido em água'Canela em pau Qb/nCravo Qb/nNoz moscada Qb/nErva doce Qb/nGengibre fresco Qb/nCachaça 400 ml (pode fazer mais forte ou mais fraco na cachaça) ",   
-    },
+      vancouver:"<h6>Modo de preparo</h6><li>Misture todos os ingredientes menos a cachaça.</li> <li>Leve ao fogo, mexendo até iniciar a fervura.</li><li>Coloque dentro da panela um pires pequeno de porcelana ou de refratário, para que o leite não derrame.</li><li>Cozinhe até dar o ponto cremoso, espere esfriar junte a cachaça, coe e guarde em garrafas esterilizadas.</li>",
+         },
       
-    abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+    abstract: "<h6>Ingredientes</h6><li>Leite 2 IL</li> <li>Açúcar 400 g</li><li>Sal 1 colher (café) de sal 'dissolvido em água'</li><li>Bicarbonato de sódio 1 colher (café) de sal 'dissolvido em água'</li><li>Canela em pau Qb</li> <li>Cravo Qb</li> <li>Noz moscada Qb</li><li>Erva doce Qb </li><li>Gengibre fresco Qb</li><li>Cachaça 400 ml (pode fazer mais forte ou mais fraco na cachaça) </li>",   
+ 
+      
     absbox: "absPopup1",
   },
 
