@@ -24,7 +24,7 @@ const research = [
     title: "Caldeirada",
     authors: "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki ",
     conferences: "Preparação realizada na aula de Produções Gastronômicas orientada pelos professores Luigi Rea e Danielle Massa ",
-    researchYr: 2020,
+    researchYr: 2024,
     citebox: "popup2",
     image: "images/caldeirada.jpg",
     citation: {
@@ -68,13 +68,13 @@ const research = [
   },
 
   {
-    title: "Dual Super-Resolution Learning for Semantic Segmentation",
-    authors: "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi",
+    title: "Frango com Quiabo",
+    authors: "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki",
     conferences:
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
+    researchYr: 2024,
     citebox: "popup5",
-    image: "assets/images/research-page/semanticSegmentation.png",
+    image: "images/frango.jpg",
     citation: {
       vancouver:
         "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
@@ -85,13 +85,13 @@ const research = [
   },
 
   {
-    title: "Deep Unfolding Network for Image Super-Resolution",
-    authors: "Zhang, Kai and Van Gool, Luc and Timofte, Radu",
+    title: "Rabada com agrião",
+    authors: "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki",
     conferences:
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
+    researchYr: 2024,
     citebox: "popup6",
-    image: "assets/images/research-page/deepNetwork.png",
+    image: "images/rabada.jpg",
     citation: {
       vancouver:
         "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
@@ -103,13 +103,13 @@ const research = [
 
   {
     title:
-      "Unsupervised Learning for Intrinsic Image Decomposition From a Single Image",
-    authors: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng",
+      "Carne de sol com farofa de dendê",
+    authors: "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki",
     conferences:
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
+    researchYr: 2024,
     citebox: "popup7",
-    image: "assets/images/research-page/imageDecomposition.png",
+    image: "images/farofa.jpg",
     citation: {
       vancouver:
         "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
@@ -120,14 +120,31 @@ const research = [
   },
   {
     title:
-      "Forward and Backward Information Retention for Accurate Binary Neural Networks",
+      "Carpaccio de vegetais",
     authors:
-      "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan",
+      "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki e Mariana Fragoso",
     conferences:
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
+    researchYr: 2024,
     citebox: "popup8",
-    image: "assets/images/research-page/neuralNetworks.jpg",
+    image: "images/salada.jpg",
+    citation: {
+      vancouver:
+        "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+    },
+    abstract:
+      "This is currently left empty and this can be considered as a dummy data 8",
+    absbox: "absPopup8",
+  },
+{
+    title:
+      "Pudim de Chia",
+    authors:
+      "Rayssa Machado, Nayrim Pinheiro, Stephanie Lemes, Murilo Yuki e Mariana Fragoso",
+    conferences:
+      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    researchYr: 2024,    citebox: "popup8",
+    image: "images/pudim.jpg",
     citation: {
       vancouver:
         "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
