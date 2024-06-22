@@ -29,10 +29,10 @@ const research = [
     image: "images/caldeirada.jpg",
     citation: {
       vancouver:
-        "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "<h6>Modo de preparo</h6><li>Corte o peixe em pedaços médios e tempere com sal e pimenta Corte o tomate, a cebola, o alho e o pimentão em rodelas.</li><li>Descasque as batatas, corte em rodelas grossas e branqueie.</li><li>Refogue a cebola o tomate, o alho e o pimentão, acrescente o cheiro verde, por cima disponha o peixe, cuidadosamente.</li><li>Acrescente a água e deixe cozinhar por cerca de 20 minutos. Acrescente a batata, cozinhe por mais 5 minutos e por fim os ovos (cozidos e cortados ao meio)</li><li>OBs. Servir com arroz branco</li>",  
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 2",
+      "<h6>Ingredientes</h6><li>Filhote (ou outro peixe em filė) 500g</li><li>Ovo (cozido) 4 Unidades </li><li>Cheiro verde 1 Maço</li><li>Pimenta de cheiro 2 Unidade</li><li>Tomate 2 Unidade</li><li>Pimentão verde 1 Unidade</li><li>Óleo 50ml</li><li>Alho 2 Dentes</li><li>Cebola 1 Unidade</li><li>Batata 300g</li><li>Sal Quanto Baste</li><li>Pimenta Quanto Baste</li><li>Água 200 ml</li>",
     absbox: "absPopup2",
   },
 
@@ -44,9 +44,9 @@ const research = [
     citebox: "popup3",
     image: "images/muffin.jpg",
     citation: {
-      vancouver: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+      vancouver: " <h6>Modo de preparo</h6><li>Bater as claras em neve, quando estiverem bem espumosas, juntar 1/3 do açúcar, bater ate ficar bem brilhante.</li><li>Retirar da batedeira e reservar.</li><li>Na batedeira juntar a manteiga e o restante do açúcar, quando tiver um creme homogêneo, juntar as gemas, bater até ter um creme homogêneo.</li><li>Retirar da batedeira, juntar a farinha peneirada com o fermento, o óleo e o leite.</li><li>Misturar bem.</li><li>Juntar as claras em neve, misturar delicadamente até incorporar, com cuidado para não perder a aeração.</li><li>Assar em forma untada em forno aquecido a 160°C até ficar dourado.</li><li>Para fazer bolo de laranja, substituir o leite por suco de laranja e acrescentar raspas de laranja a massa.</li>",
     },
-    abstract: "This is currently left empty and this can be considered as a dummy data 3",
+    abstract: " <h6>Ingredientes</h6><li>Açúcar 160g</li><li>Farinha de trigo 155g</li><li>Fermento químico 7g</li><li>Manteiga sem sal 100g</li><li>Leite 100g</li><li>Ovo 110g</li><li>Óleo 40g</li>",
     absbox: "absPopup3",
   },
 
@@ -60,10 +60,9 @@ const research = [
     image: "images/bolo.jpg",
     citation: {
       vancouver:
-        "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
-    },
+        "<h6>Modo de preparo</h6><li>Bater os ovos com o açúcar na batedeira até obter um creme fofo e claro. Retirar a mistura da batedeira, com auxílio de um fouet, juntar os secos peneirados, delicadamente, misturando de baixo pra cima. Por último acrescentar a gordura derretida misturar.</li><li>Assar em assadeira untada e polvilhada com farinha de trigo, ou papel manteiga em forno a 160°C</li>",  },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 4",
+      "<h6>Ingredientes</h6><li>Açúcar 190g</li><li>Clara 210g</li><li>Farinha de trigo 190g</li><li>Gema 120g</li><li>Manteiga 40g</li>",
     absbox: "absPopup4",
   },
 
