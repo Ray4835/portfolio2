@@ -93,10 +93,10 @@ const research = [
     image: "images/rabada.jpg",
     citation: {
       vancouver:
-        "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "<h6>Modo de preparo</h6><li>Limpar a rabada retirando o excesso de gordura, levar a panela coberta com água, cozinhar por 5 minutos após pegar pressão, desprezar a água.</li><li>Temperar a rabada com sal e pimenta, voltar ao fogo coberta com água, sob pressão por cerca de 40 minutos.</li><li>Picar o alho, cebola, tomate e pimentão em brunoise, refogar com óleo, acrescentar a rabada cozida, o louro, a salsa e o vinho.</li><li>Acertar o tempero e cozinhar por cerca de 25 minutos. Quando apagar o fogo, acrescentar o agrião.</li><li>Obs.servir com polenta</li> ",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 6",
+      "<h6>Ingredientes</h6><li>Rabo de boi 1kg</li><li>Alho 4 dentes</li><li>Cebola 2 Unidades </li><li>Tomate 2 Unidades </li><li>Pimentão 1/2 Unidade</li><li> Louro (folha) 2 Unidades </li><li>Salsa Quanto Basta</li><li>Cebolinha Quanto Basta</li><li>Pimenta Quanto Basta</li><li>Sal Quanto Basta</li><li>Agrião 1 Maço</li><li>Vinho tinto seco150ml</li><li>Óleo Quanto Basta</li><li>",
     absbox: "absPopup6",
   },
 
