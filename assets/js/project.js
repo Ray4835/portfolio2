@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Rayssa Machado de Jesus Santos",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "images/Ray1.jpg",
     place: "",
     time: "(26 - out, 2005 )",
     desp: "Tenho 19 anos e sou a primogênita de 9 filhos. Procuro sempre focar nos estudos par conseguir ser um exemplo para meus irmãos, visto que meus pais não chegaram a concluir os estudo. Por ser a irmã mais velha sinto que yenho que carregar este 'cargo' de filho exemplo, não sei ao certo em qual área pretendendo seguir,as busquei saber mais sobre gastronomia por ser um refúgio omde posso expressar sentimentos através de preparações. Amo cozinhar, pois minha família ama comer e gosto de esbajar o amor que sinto através da comida",
