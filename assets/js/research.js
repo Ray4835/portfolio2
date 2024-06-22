@@ -109,7 +109,7 @@ const research = [
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
     researchYr: 2024,
     citebox: "popup7",
-    image: "images/farofa.jpg",
+    image: "images/carneseca.jpg",
     citation: {
       vancouver:
         "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
